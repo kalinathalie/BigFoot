@@ -2,7 +2,7 @@
 
 > This project aims to make a fast footprint with nmap and enum dns automatically
 
-Git: <https://github.com/lucasnathaniel/BigFoot>
+Git: <https://github.com/KaliNathalie/BigFoot>
 
 Obs: dnsenum riquired!
 
@@ -29,4 +29,4 @@ $ ./bin/BigFoot site.com (Options)
 
 >Exemple: ./BigFoot google.com -o
 
-By: Lucas Nathaniel
+By: Kali Nathalie

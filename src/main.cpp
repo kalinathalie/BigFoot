@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]){
 	cout << "88      a8P  88  \"8a,   ,d88  88       \"8a,   ,a8\"  \"8a,   ,a8\"   88,           " << endl;
 	cout << "88888888P\"   88   `\"YbbdP\"Y8  88        `\"YbbdP\"'    `\"YbbdP\"'    \"Y888      " << endl;
 	cout << "                  aa,    ,88                                                         " << endl;
-	cout << "                   \"Y8bbdP\"                 By: Lucas Nathaniel                    " << endl;
+	cout << "                   \"Y8bbdP\"                 By: Kali Nathalie                    " << endl;
 	cout << "-------------------------------------------------------------------------            " << endl;
 	
 	if(argc < 2 || argc > 3){
